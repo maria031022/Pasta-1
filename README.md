@@ -7,7 +7,7 @@ _Olá,meu nome é Maria_
 
 <B>Eu etou aprendendo a programar em Markdown e HTML</b>
 
-
+![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
   
 
 
