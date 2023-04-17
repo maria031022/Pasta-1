@@ -7,8 +7,9 @@ _Olá,meu nome é Maria_
 
 <B>Eu etou aprendendo a programar em Markdown e HTML</b>
 
-![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
-  
+![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) 
+![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+![](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)
+![](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)
 
-
-
+[YOUTUBE](https://www.youtube.com/watch?v=8Y8maXEMje0)
